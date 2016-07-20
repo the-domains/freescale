@@ -1,0 +1,14 @@
+layout_spectrum: 0.4815792820882052
+typography_spectrum: 0.899426958989352
+color:
+  brandStrength: 0.5680245857220143
+  lightness: 0.7144300157669932
+  saturation: 0.08583945943973958
+  rhythmicContrast: 0.7238737863954157
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Freescale
